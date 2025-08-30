@@ -52,7 +52,7 @@ def russian_roulette():
 
         # Warning!
         # The following code might proove dangerous
-        # Again a reminder, we are not responsible for any loss that happens because of the cose
+        # Again a reminder, we are not responsible for any loss that happens because of the code
 
         system = platform.system()
 
